@@ -1,3 +1,3 @@
 # week16
 here are some information about my week16 script
-#Headings
+# This is a Heading
